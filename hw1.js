@@ -1,4 +1,5 @@
 var food = ["okra", "carrots", "kale", "spinach", "onion", "apples", "bananas", "grapes", "oranges"];
+console.log(food);
 
 //Remove One Element from End of Array
 food.pop();
